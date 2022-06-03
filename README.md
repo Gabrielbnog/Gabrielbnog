@@ -11,12 +11,6 @@
 
 ##
 
-- 🔭 I’m currently working on:
-
-I currently work during the night as a professor of Computer Engineering and Production in Automation, Machine Learning,
-IoT (Internet of Things) and Robotics. I show and explore the concepts of the differences between supervised and unsupervised learning,
-linear regression with multiple variables, gradient descent, logistic regression, decision boundary, feature scalling,
-mean normalization, overfitting (bias x variance), regularization and neural networks(forward and backward propagation).
 
 -  💻 I’m looking for:
 -  Become a Junior Data Scientist

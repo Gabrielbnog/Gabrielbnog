@@ -13,7 +13,7 @@
 
 
 -  💻 I’m looking for:
--  Become a Junior Data Scientist
+-  Become a  Data Scientist
 
 - 🌱 I’m currently learning:
 - Python, Machine Learning, SQL, Robótica, Internet of things
